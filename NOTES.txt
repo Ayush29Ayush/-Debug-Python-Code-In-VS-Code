@@ -1,0 +1,12 @@
+A) How to debug python in vscode
+
+-- Creating a python class and a simple python program
+-- Installing VSCode's Python extension
+-- To start debugging press F5 and choose to debug either a Python Module or currently open Python file
+-- Overview of vscode python debugging tools (continue, unpause, step over, step into, step out, reset, stop)
+-- How to add a breakpoint to a line of code
+-- How to change the value of a variable in python debugger
+-- Creating an expression breakpoint
+-- Creating a hit point breakpoint
+-- Creating a log message breakpoint
+-- Debug Console: where to view log messages from a breakpoint in the vscode terminal?
